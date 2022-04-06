@@ -32,11 +32,12 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="resources\img\unk.png" />
-    <Content Include="resources\css\animate.css">
+    <Content Include="requirements.txt" />
+    <Content Include="resources\css\styles.css">
       <SubType>Code</SubType>
     </Content>
-    <Content Include="resources\css\bootstrap.min.css">
+    <Content Include="resources\img\unk.png" />
+    <Content Include="resources\css\animate.css">
       <SubType>Code</SubType>
     </Content>
     <Content Include="resources\css\home.css">
